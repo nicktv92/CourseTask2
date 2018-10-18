@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CourseTask2</string>
+    <string name="text_info">Получить информацию</string>
+    <string name="battery">Батарея</string>
+    <string name="location">Геопозиция</string>
+    <string name="text_battery_info">Уровень заряда батареи равен:</string>
+    <string name="text_battery_charge">заряд(%)</string>
+    <string name="text_location_title">Используемые источники для получения данных</string>
+    <string name="gps_title">GPS</string>
+    <string name="network_title">Мобильная сеть</string>
+</resources>
